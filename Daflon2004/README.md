@@ -6,7 +6,7 @@ DOI: [10.1086/425607](http://dx.doi.org/10.1086/425607)
 Table 1
 -------
 
-Name: `daflon_table1.csv`
+Name: [`daflon_table1.csv`](https://github.com/gabraganca/munged_tables/blob/master/Daflon2004/daflon2004_table1.csv)
 
 * `Object`   : Name of the object.
 * `loge_C`   : Abundance of carbon.
@@ -34,7 +34,7 @@ Name: `daflon_table1.csv`
 Table 2
 -------
 
-Name: `daflon_table2.csv`
+Name: [`daflon_table2.csv`](https://github.com/gabraganca/munged_tables/blob/master/Daflon2004/daflon2004_table2.csv)
 
 * `Object`  : Name of the object.
 * `l`       : Galactic longitude.
