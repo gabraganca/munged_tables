@@ -42,3 +42,13 @@ Status: Incomplete.
 * `e_FeH` : Error on iron abundance (dex).
 * `OH`    : Oxygen abundance (dex).
 * `e_OH`  : Error on oxygen abundance (dex).
+
+Table 7
+-------
+
+Name: [`lemasle2007_table7.csv`](https://github.com/gabraganca/munged_tables/blob/master/Lemasle2007/lemasle2007_table7.csv)
+
+Status: Complete.
+
+* `Object`: Name of the object.
+* `Rg`    : Galactocetric distance(kpc).
